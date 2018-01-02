@@ -5,5 +5,7 @@ Inspired by https://medium.com/bugbountywriteup/listening-to-any-members-only-au
 
 Get Medium Play here: https://chrome.google.com/webstore/detail/medium-play/bjacbjpkijglgooedjahapjohhofopba
 
+Blog Post: https://medium.com/@swap/medium-play-listen-to-audio-versions-of-medium-stories-b0cc8982f268
+
 ![](medium-play-1.png)
 ![](medium-play-2.png)
