@@ -27,8 +27,11 @@ chrome.pageAction.onClicked.addListener(function(tab) {
       request.onload = function() {
         if (request.status === 200) {
           var resp = request.responseText;
-          var audioUrl = resp.match(/\"audioVersionUrl\":\"([^"]+)\"/)[1];
-          chrome.tabs.create({"url": audioUrl});
+          var match = resp.match(/\"audioVersionUrl\":\"([^"]+)\"/);
+          if (null !== match && null !== match[1]) {
+            var audioUrl = match[1];
+            chrome.tabs.create({"url": audioUrl});
+          }
         }
       };
       request.send();
