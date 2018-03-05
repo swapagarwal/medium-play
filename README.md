@@ -1,6 +1,6 @@
 # medium-play
 
-![](https://img.shields.io/chrome-web-store/v/bjacbjpkijglgooedjahapjohhofopba.svg) ![](https://img.shields.io/chrome-web-store/rating/bjacbjpkijglgooedjahapjohhofopba.svg?maxAge=2592000) ![](https://img.shields.io/chrome-web-store/users/bjacbjpkijglgooedjahapjohhofopba.svg?maxAge=2592000)
+![](https://img.shields.io/chrome-web-store/v/bjacbjpkijglgooedjahapjohhofopba.svg) ![](https://img.shields.io/chrome-web-store/rating/bjacbjpkijglgooedjahapjohhofopba.svg) ![](https://img.shields.io/chrome-web-store/users/bjacbjpkijglgooedjahapjohhofopba.svg)
 
 Listen to audio versions of medium stories.
 
