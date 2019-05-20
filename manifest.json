@@ -8,6 +8,16 @@
         ],
         "persistent": false
     },
+    "content_scripts": [
+    {
+     	"matches": [
+     		"https://medium.com/*"
+     	],
+     	"js": [
+     		"content.js"
+     	]
+     }
+	 ],
     "page_action": {
         "default_icon": "icon19.png",
         "default_title": "Check out the audio version!"
