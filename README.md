@@ -17,3 +17,4 @@ Blog Post: https://medium.com/@swap/medium-play-listen-to-audio-versions-of-medi
 Screenshots:
 ![](medium-play-1.png)
 ![](medium-play-2.png)
+![](medium-play.gif)
