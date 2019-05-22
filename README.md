@@ -18,8 +18,6 @@ On the Chrome Web Store, download [Medium Play](https://chrome.google.com/websto
 
 On any medium.com/* page that offers an audio version, click on the page action button to listen to audio version of that story.
 
-Blog Post: https://medium.com/@swap/medium-play-listen-to-audio-versions-of-medium-stories-b0cc8982f268
-
 ## Screenshots
 ![](medium-play-1.png)
 ![](medium-play-2.png)
