@@ -14,7 +14,9 @@
     },
     "permissions": [
         "activeTab",
-        "declarativeContent"
+        "declarativeContent",
+        "tabs",
+        "https://medium.com/"
     ],
     "icons": {
         "16": "icon16.png",
