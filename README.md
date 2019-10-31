@@ -6,9 +6,9 @@
 
 Medium Play is a JavaScript-built Chrome extension that allows you to listen to audio versions of [Medium](https://medium.com/) stories.
 
-This application was inspired by this blog post, ["Listening to any members-only Audio version of any story in Medium."](https://medium.com/bugbountywriteup/listening-to-any-members-only-audio-version-of-the-story-in-medium-bf2dc2abc8d7)
+This application was inspired by the blog post ["Listening to any members-only Audio version of any story in Medium."](https://medium.com/bugbountywriteup/listening-to-any-members-only-audio-version-of-the-story-in-medium-bf2dc2abc8d7)
 
-Here's a [blog post](https://medium.com/@swap/medium-play-listen-to-audio-versions-of-medium-stories-b0cc8982f268) about it.
+You can read more about Medium Play here [blog post](https://medium.com/@swap/medium-play-listen-to-audio-versions-of-medium-stories-b0cc8982f268) about it.
 
 ## Installation
 
